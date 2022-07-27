@@ -39,6 +39,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/patrickjcardoso/patrickjcardoso/blob/output/snake.svg" alt="Snake animation" />
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/alexiakattah/alexiakattah/output/github-contribution-grid-snake.svg)
 
 ###
