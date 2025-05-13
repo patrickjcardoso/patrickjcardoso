@@ -42,3 +42,5 @@
  ![github contribution grid snake animation](https://raw.githubusercontent.com/alexiakattah/alexiakattah/output/github-contribution-grid-snake.svg)
 
 ###
+
+![{usuario} GitHub stats](https://github-readme-stats.vercel.app/api?username={usuario}&show_icons=true&theme=transparent)
