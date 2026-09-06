@@ -31,10 +31,11 @@ Atuo na arquitetura e evolução de plataformas baseadas em Kubernetes, Rancher 
 
 ## 🎓 Certificações
 
-- AWS Cloud Quest: Cloud Practitioner
+- AWS Certified Solutions Architect - Associate
+- AWS Certified Cloud Practitioner
+- AWS Certified AI Practitioner
 - SCA in Rancher Manager 2.7 for Rancher Prime
-- Kubernetes Administration 1.2 (Internal/Partner)
-- Practical Observability
+- SCE in SUSE Linux Enterprise Server 15
 - Teaching with Purpose
 
 ## 💼 Experiência
@@ -56,7 +57,6 @@ Redes de Computadores, Sistemas Operacionais, Cloud Computing, Cybersegurança, 
 | [lab-prometheus](https://github.com/patrickjcardoso/lab-prometheus) | Laboratório de monitoramento com Prometheus | ⭐ 4 · 🍴 13 |
 | [Docker](https://github.com/patrickjcardoso/Docker) | Material de estudo/treinamento sobre containers | ⭐ 7 · 🍴 8 |
 
-> ✍️ *Considere adicionar um repositório com uma arquitetura Terraform/AWS real (anonimizada) — hoje seu GitHub mostra bem o lado "Kubernetes/observabilidade", mas não evidencia o lado "AWS + IaC" que é forte no seu currículo.*
 
 ## 📊 GitHub Stats
 
