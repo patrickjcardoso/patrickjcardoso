@@ -1,40 +1,45 @@
-<h2 align="left">Prof. Patrick J. Cardoso</h2>
+# Olá, eu sou o Patrick 👋
 
-###
+**DevOps / SRE Engineer** focado em Kubernetes, Docker e Observabilidade — também crio conteúdo técnico e treinamentos práticos para ajudar outras pessoas a entrarem na área.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" width="42" alt="debian logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" width="42" alt="kubernetes logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" width="42" alt="java logo" />                 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" width="42" alt="arduino logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" width="42" alt="bash logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" width="42" alt="gitlab logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="30" width="42" alt="putty logo"  />
-</div>
+📍 Cascavel, Brasil · 🏢 O2B
+🔗 [LinkedIn](https://www.linkedin.com/in/patrickjcardoso/) · 📺 [YouTube](https://www.youtube.com/channel/UCb1Nb7eZ6BOnSp0BK5-KEWg) · ✉️ [patrickjcardoso@gmail.com](mailto:patrickjcardoso@gmail.com)
 
-###
+---
 
-<div align="left">
-  <a href="https://www.youtube.com/channel/UCb1Nb7eZ6BOnSp0BK5-KEWg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="patrickjcardoso@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/patrickjcardoso/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+## 🧭 O que eu faço
 
-##
+- Projeto, opero e escalo infraestrutura em **Kubernetes** (K3s, Rancher) e containers (**Docker**)
+- Implemento **observabilidade** (Prometheus e stack relacionada) para times que precisam enxergar o que acontece em produção
+- Automatizo pipelines e ambientes com **Linux, Bash e CI/CD**
+- Ensino essas práticas em webinars e laboratórios guiados — [confira meus treinamentos práticos](#-projetos-em-destaque)
 
-![{usuario} GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickjcardoso&show_icons=true&theme=transparent)
+## 🛠️ Stack principal
+
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Rancher](https://img.shields.io/badge/-Rancher-0075A8?style=flat&logo=rancher&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+> 💡 *Reduzi a lista de badges para as tecnologias em que quero ser reconhecido. Se você usa também AWS/Azure/GCP, Terraform ou Ansible no dia a dia, me avise que eu já adiciono aqui.*
+
+## 📌 Projetos em destaque
+
+| Projeto | O que é | Destaque |
+|---|---|---|
+| [Introducao-ao-Kubernetes](https://github.com/patrickjcardoso/Introducao-ao-Kubernetes) | Laboratório guiado de introdução ao K8s (K3s, Minikube, Kind) | ⭐ 11 · 🍴 7 |
+| [desafio_o11y](https://github.com/patrickjcardoso/desafio_o11y) | Desafio prático de observabilidade em Python | ⭐ 4 · 🍴 16 |
+| [lab-prometheus](https://github.com/patrickjcardoso/lab-prometheus) | Laboratório de monitoramento com Prometheus | ⭐ 4 · 🍴 13 |
+| [Docker](https://github.com/patrickjcardoso/Docker) | Material de estudo/treinamento sobre containers | ⭐ 7 · 🍴 8 |
+
+> ✍️ *Adicione uma descrição curta (About) e topics em cada um desses repositórios — hoje aparecem como "No description provided", o que prejudica achabilidade nas buscas do GitHub.*
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickjcardoso&show_icons=true&theme=transparent)
+
+---
+
+💬 Aberto a conversar sobre DevOps, SRE, Kubernetes e observabilidade — chama no LinkedIn.
