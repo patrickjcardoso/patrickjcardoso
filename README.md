@@ -58,9 +58,6 @@ Redes de Computadores, Sistemas Operacionais, Cloud Computing, Cybersegurança, 
 | [Docker](https://github.com/patrickjcardoso/Docker) | Material de estudo/treinamento sobre containers | ⭐ 7 · 🍴 8 |
 
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickjcardoso&show_icons=true&theme=transparent)
 
 ---
 
